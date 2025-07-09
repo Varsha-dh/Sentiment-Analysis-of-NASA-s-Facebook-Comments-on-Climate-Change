@@ -58,10 +58,9 @@ Also compared with:
   - Carbon emissions
 
 📦 sentiment-nasa-climate/
-├── data/ # climate_nasa.csv
-├── notebooks/ # Jupyter notebooks
-├── outputs/ # Charts and visualizations
-├── README.md # Project overview
+├── data/          # Contains: climate_nasa.csv
+├── notebooks/     # Contains: sentiment_analysis.ipynb (Jupyter Notebook)
+├── README.md      # You want to edit this
 
 ## 📌 How to Run
 
