@@ -71,14 +71,18 @@ pip install transformers torch pandas matplotlib seaborn gensim nltk
 
 2.Run sentiment model:
 
-python
-Copy
-Edit
-from transformers import pipeline
+!pip install torch
+!pip install transformers
+!pip install transformers torch -q
+pip install nltk gensim pyLDAvis
 
-model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
-sentiment_pipeline = pipeline("sentiment-analysis", model=model_name)
-sentiment_pipeline("NASA is doing amazing work for climate change.")
+
+
+model1_name = "nlptown/bert-base-multilingual-uncased-sentiment"
+tokenizer1 = AutoTokenizer.from_pretrained(model1_name)
+model1 = AutoModelForSequenceClassification.from_pretrained(model1_name)
+model1.eval()
+
 3.Use notebooks in /notebooks for full analysis.
 
 ✅ Conclusion
