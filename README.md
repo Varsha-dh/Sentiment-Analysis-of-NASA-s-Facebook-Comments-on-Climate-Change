@@ -58,10 +58,9 @@ Also compared with:
   - Carbon emissions
 
 📦 sentiment-nasa-climate/
-├── data/ # Cleaned dataset
+├── data/ # climate_nasa.csv
 ├── notebooks/ # Jupyter notebooks
 ├── outputs/ # Charts and visualizations
-├── model/ # Model configuration & tokenization
 ├── README.md # Project overview
 
 ## 📌 How to Run
@@ -85,9 +84,10 @@ sentiment_pipeline("NASA is doing amazing work for climate change.")
 
 ✅ Conclusion
 This project reveals public sentiment trends and thematic concerns around climate change as discussed on NASA's Facebook page. The multilingual BERT model helped capture nuanced sentiment in a diverse, global dataset.
+
 📬 Contact
-Author: [Varsha Dudhat]
-Email: [dhameliyavarsha@gmail.com]
+Author: Varsha Dudhat
+Email: dhameliyavarsha@gmail.com
 LinkedIn: [https://www.linkedin.com/in/varsha-dudhat-25429613a/]
 GitHub: [https://github.com/Varsha-dh]
 
