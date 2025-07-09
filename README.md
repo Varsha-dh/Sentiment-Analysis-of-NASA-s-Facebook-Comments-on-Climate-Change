@@ -42,7 +42,7 @@ change.
 Also compared with:
 - **VADER** (lexicon-based)
 - **TextBlob** (rule-based)
-- **cardiffnlp/twitter-roberta-base-sentiment &distilbert-base-uncased-finetuned-sst-2-english** (transformer-based custom models)
+- **cardiffnlp/twitter-roberta-base-sentiment & distilbert-base-uncased-finetuned-sst-2-english** (transformer-based custom models)
 
 ## 📊 Key Insights
 
