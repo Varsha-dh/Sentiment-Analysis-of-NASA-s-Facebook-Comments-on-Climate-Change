@@ -42,7 +42,7 @@ change.
 Also compared with:
 - **VADER** (lexicon-based)
 - **TextBlob** (rule-based)
-- **cardiffnlp/twitter-roberta-base-sentiment &distilbert-base-uncased-finetuned-sst-2-english** (transformer-based custom models)
+- **cardiffnlp/twitter-roberta-base-sentiment & distilbert-base-uncased-finetuned-sst-2-english** (transformer-based custom models)
 
 ## 📊 Key Insights
 
@@ -60,7 +60,7 @@ Also compared with:
 📦 sentiment-nasa-climate/
 ├── data/          # Contains: climate_nasa.csv
 ├── notebooks/     # Contains: sentiment_analysis.ipynb (Jupyter Notebook)
-├── README.md      # You want to edit this
+├── README.md      
 
 ## 📌 How to Run
 
