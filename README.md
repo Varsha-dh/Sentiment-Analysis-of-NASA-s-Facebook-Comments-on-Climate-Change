@@ -60,7 +60,7 @@ Also compared with:
 📦 sentiment-nasa-climate/
 ├── data/          # Contains: climate_nasa.csv
 ├── notebooks/     # Contains: sentiment_analysis.ipynb (Jupyter Notebook)
-├── README.md      # You want to edit this
+├── README.md      
 
 ## 📌 How to Run
 
